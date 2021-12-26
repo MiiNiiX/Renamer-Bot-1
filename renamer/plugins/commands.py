@@ -65,7 +65,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton("🤖 Updates", url="https://t.me/TMWAD"),
-                    InlineKeyboardButton("🦸 Deverloper", url="https://github.com/kalanakt"),
+                    InlineKeyboardButton("🦸 Deverloper", url="https://github.com/The-Mayans"),
                 ],
                 [
                     InlineKeyboardButton("🏘 Home", callback_data="back"),
