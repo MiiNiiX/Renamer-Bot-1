@@ -68,7 +68,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton("🤖 Updates", url= "https://t.me/TMWAD"),
-                    InlineKeyboardButton("🦸 Deverloper", url="https://github.com/kalanakt"),
+                    InlineKeyboardButton("🦸 Deverloper", url="https://github.com/The-Mayans"),
                 ],
                 [
                     InlineKeyboardButton("🏘 Home", callback_data="back"),
